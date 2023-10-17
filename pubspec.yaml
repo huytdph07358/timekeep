@@ -1,0 +1,93 @@
+name: emr
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 20230802.0.0+20230802 #TODO:BUILD_ENV
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+  flutter_localizations:
+    sdk: flutter
+  nb_utils: ^4.5.2
+  intl: any
+  upgrader: ^6.3.0
+  uni_links: ^0.5.1
+  uuid: ^3.0.7
+  firebase_analytics: ^10.2.0
+  firebase_core: ^2.7.1
+  firebase_messaging: ^14.2.6
+  get: ^4.6.5
+  package_info_plus: ^3.0.3
+  firebase_crashlytics: ^3.3.2
+  carousel_slider: ^4.2.1
+
+  vss_locale:
+    path: ../vss_plugins/vss_locale
+  vss_global_constant:
+    path: ../vss_plugins/vss_global_constant
+  vss_environment:
+    path: ../vss_plugins/vss_environment
+  vss_theme:
+    path: ../vss_plugins/vss_theme
+  vss_name_util:
+    path: ../vss_plugins/vss_name_util
+  vss_navigator:
+    path: ../vss_plugins/vss_navigator
+  vss_ivt_api:
+    path: ../vss_plugins/vss_ivt_api
+  vss_log:
+    path: ../vss_plugins/vss_log
+
+  emr_login:
+    path: ./plugins/emr_login
+  emr_screen:
+    path: ./plugins/emr_screen
+  emr_app_constant:
+    path: ./plugins/emr_app_constant
+  emr_config:
+    path: ./plugins/emr_config
+  emr_environment_chooser:
+    path: ./plugins/emr_environment_chooser
+  emr_backend_domain:
+    path: ./plugins/emr_backend_domain
+  emr_uri:
+    path: ./plugins/emr_uri
+  emr_change_password:
+    path: ./plugins/emr_change_password
+  emr_app_store:
+    path: ./plugins/emr_app_store
+  emr_authorize:
+    path: ./plugins/emr_authorize
+  emr_dashboard:
+    path: ./plugins/emr_dashboard
+  emr_document_file:
+    path: ./plugins/emr_document_file
+  emr_document_detail:
+    path: ./plugins/emr_document_detail
+  emr_document:
+    path: ./plugins/emr_document
+  emr_sign_processor:
+    path: ./plugins/emr_sign_processor
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mobx_codegen: ^2.0.5+2
+  build_runner: ^2.1.7
+  json_serializable: ^6.6.1
+  lint: ^1.8.2
+  flutter_expandable_fab: ^1.7.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/flag/
+

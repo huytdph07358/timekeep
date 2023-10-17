@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "729792396035",
+    "project_id": "benhandientu-33c8f",
+    "storage_bucket": "benhandientu-33c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729792396035:android:b5ad9d52cd37ef89a88736",
+        "android_client_info": {
+          "package_name": "com.vietsens.emr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729792396035-40k1lr5r2ggpamrjedtfbrq05da07ht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67cvj7i1MiJas45nGZ9XmUZJq64BIHVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729792396035-40k1lr5r2ggpamrjedtfbrq05da07ht9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729792396035-2nastpoe32ninh965dptm77a3gjattu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.vietsens.inventec.emr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+  "tenDangNhap": "Login name",
+  "duLieuBatBuoc": "Require data",
+  "matKhau": "Password",
+  "dangNhap": "Login",
+  "phanMemDangTroVaoMoiTruongPhatTrien": "The software is connecting to the develop environment",
+  "tongDaiHoTro": "Call center",
+  "phienBan": "Version",
+  "xacNhan": "Confirm",
+  "banMuonTatPhanMem": "Do you want to quit app?",
+  "dongY": "Agree",
+  "boQua": "Cancel",
+  "cauHinh": "Config",
+  "maBenhVien": "Hospital code",
+  "cauHinhHeThong": "Config system",
+
+  "zzz": ""
+}

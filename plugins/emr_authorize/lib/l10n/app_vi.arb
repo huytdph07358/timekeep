@@ -1,0 +1,8 @@
+{
+  "longtext_khongCoVaiTroTiketSeller": "Bạn chưa được khai báo là nhân viên bán vé xe buýt",
+  "longtext_khongCoVaiTroSupervisor": "Bạn cần được phân vai trò giám sát viên để có thể sử dụng tính năng này",
+  "longtext_khongCoVaiTroRegister": "Bạn cần được phân vai trò đăng ký thiết bị để có thể sử dụng tính năng này",
+  "longtext_khongCoVaiTroTester": "Bạn cần được phân vai trò kiểm thử viên để có thể sử dụng tính năng này",
+
+  "zzz": ""
+}
